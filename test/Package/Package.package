@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9aec34a0-ed4d-4646-85e5-28bfbfc8b474" solutionId="9aec34a0-ed4d-4646-85e5-28bfbfc8b474" resetWebServer="false" sharePointProductVersion="16.0" name="SharePoint_App_SPDummyListItems_Test" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="f2b27c1b-2883-468f-98ba-2e13b2c1f921" />
+  </features>
+</package>
