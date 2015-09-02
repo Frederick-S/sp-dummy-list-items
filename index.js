@@ -5,7 +5,7 @@ function SPDummyListItemsCreation(webUrl, listTitle, crossSite) {
 
     if (crossSite) {
         this.clientContext = SP.ClientContext.get_current();
-        appContextSite = new SP.AppContextSite(clientContext, webUrl);
+        appContextSite = new SP.AppContextSite(this.clientContext, webUrl);
         web = appContextSite.get_web();
     } else {
         this.clientContext = new SP.ClientContext(webUrl);
