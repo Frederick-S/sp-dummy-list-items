@@ -1,4 +1,6 @@
 # sp-dummy-list-items
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-dummy-list-items.svg)](https://greenkeeper.io/)
 Create dummy SharePoint list items.
 
 ## Installation
